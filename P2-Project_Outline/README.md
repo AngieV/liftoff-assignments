@@ -7,21 +7,25 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Website/App for a Non-Profit Org to promote the Mission of the NPO, 
-raise awareness for their cause and secure donations of funds, 
-tangible goods and volunteer services.
+Website/App for a local Non-Profit Organization that promotes the Mission of the NPO, 
+raises awareness for their cause and secures donations of funds, tangible goods and volunteer services.
+The website can be used by two subsets of users: those who want to help and those who need help. 
+Funds are raised by hosting events, by donation, by corporate sponsorship and by sales of merchandise.
+
 ### Features
-Users can purchase goods
+Feature: purchase merchandise and event tickets
 
-Users can donate funds
+Feature: donate funds or offer sponsorship
 
-Users can view an up-to-date list of needed goods or services
+Feature: view an up-to-date list of needed goods or services
 
-Users can offer tangible goods, time and talent
+Feature: offer donation of tangible goods, time and talent
+
+Feature: apply for assistance 
 
 ### Technologies
 Javascript and Python or Java(?)
 ### What I'll Have to Learn
-Look into Spring MVP 
+Look into Spring MVP, Django
 ### Project Tracker
 https://trello.com/b/CjcPhSpr/liftoff
