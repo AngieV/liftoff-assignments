@@ -1,3 +1,5 @@
+[Resume-Angela Volluz (1).pdf](https://github.com/AngieV/liftoff-assignments/files/6927958/Resume-Angela.Volluz.1.pdf)
+[Resume-Angela Volluz (1).pdf](https://github.com/AngieV/liftoff-assignments/files/6927959/Resume-Angela.Volluz.1.pdf)
 # Online Profiles
 For this assignment you will need to upload your resume and provide links to your GitHub account and your LinkedIn account.
 
