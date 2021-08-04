@@ -1,5 +1,3 @@
-[Resume-Angela Volluz (1).pdf](https://github.com/AngieV/liftoff-assignments/files/6927958/Resume-Angela.Volluz.1.pdf)
-[Resume-Angela Volluz (1).pdf](https://github.com/AngieV/liftoff-assignments/files/6927959/Resume-Angela.Volluz.1.pdf)
 # Online Profiles
 For this assignment you will need to upload your resume and provide links to your GitHub account and your LinkedIn account.
 
@@ -16,5 +14,6 @@ https://www.linkedin.com/in/angela-volluz/Provide a link to your LinkedIn accoun
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+[Resume-Angela Volluz (1).pdf](https://github.com/AngieV/liftoff-assignments/files/6927958/Resume-Angela.Volluz.1.pdf)
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
