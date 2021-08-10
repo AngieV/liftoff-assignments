@@ -13,11 +13,17 @@ The website can be used by two subsets of users: those who want to help and thos
 Funds are raised by hosting events, by donation, by corporate sponsorship and by sales of merchandise. Funds raised are used to help Veterans of any branch of the US Armed Forces. 
 
 ### Features
-Visitors can purchase merchandise and event tickets
+Users must create an account to purchase. Existing users can simply login. (Biggest Feature)
+
+Visitors can purchase merchandise and/or event tickets (Shopping cart feature)
+
+Visitors can view/search/sort merchandise (Search feature)
 
 Visitors can donate funds or offer sponsorship
 
-Visitors can view/search(?) an up-to-date list of needed goods or services
+Visitors can signup for volunteer slots at events (4th feature)
+
+Visitors can view an up-to-date list of needed goods or services
 
 Visitors can offer donations of tangible goods, time and talent
 
