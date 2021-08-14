@@ -14,6 +14,7 @@ https://www.linkedin.com/in/angela-volluz/
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-[Resume-Angela Volluz (1).pdf](https://github.com/AngieV/liftoff-assignments/files/6927958/Resume-Angela.Volluz.1.pdf)
+[LiftOff Resume-Angela Volluz.pdf](https://github.com/AngieV/liftoff-assignments/files/6985889/LiftOff.Resume-Angela.Volluz.pdf)
+
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
