@@ -20,4 +20,4 @@ https://trello.com/b/CjcPhSpr/liftoff
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/AngieV/Capstone-LiftOff
